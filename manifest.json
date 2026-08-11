@@ -1,0 +1,15 @@
+{
+  "name": "How the itinerary app works",
+  "short_name": "Italy Guide",
+  "description": "A plain-English guide to the Tour d'Italia itinerary app.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#3A1409",
+  "theme_color": "#6E2A19",
+  "lang": "en-GB",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
